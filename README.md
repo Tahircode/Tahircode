@@ -1,4 +1,4 @@
-# 💫 About Me: i am a full stack web developer
+Hi 👋, I'm Tahir Aziz Khan
 
 
 
